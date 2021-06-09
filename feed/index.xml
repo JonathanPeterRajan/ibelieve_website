@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ibelieve</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 05 Apr 2021 08:16:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/2021/04/05/hello-world/</link>
+					<comments>/2021/04/05/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Apr 2021 08:16:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/05/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Always schedule time for daily meditation</title>
+		<link>/2020/02/12/lunch-ideas-that-use-superfoods/</link>
+					<comments>/2020/02/12/lunch-ideas-that-use-superfoods/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2020 19:43:43 +0000</pubDate>
+				<category><![CDATA[Health & Wellness]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient-wellness/?p=133</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum consequat nunc at tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin quis malesuada dolor. Interdum et...]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum consequat nunc at tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin quis malesuada dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus id leo ac risus finibus pulvinar non eu felis. Vestibulum finibus et tortor vitae venenatis. Proin in molestie augue. Aliquam erat volutpat. Etiam at lacus bibendum, lobortis mauris vitae, sollicitudin ipsum. </p>
+
+
+
+<p>Pellentesque quis augue eleifend, aliquam enim id, venenatis risus. Mauris a maximus nisl, quis faucibus eros. Nam eros ex, fermentum ac ante a, commodo laoreet felis. Phasellus ac nibh tellus. Aliquam blandit, magna a tristique luctus, metus arcu mollis sem, porttitor sodales libero nisi sed erat. </p>
+
+
+
+<h4>It Only Takes 10 Minutes</h4>
+
+
+
+<p>Sed vehicula felis nisl, sed scelerisque magna vulputate vitae. Curabitur ultrices augue odio, ut vestibulum purus consequat vel. Aenean ullamcorper ornare aliquet. <a href="#">Orci varius natoque</a> penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam sed massa pretium, pulvinar dui eget, ultrices lorem. Aenean vestibulum mollis arcu, in dapibus tortor. Vestibulum at hendrerit est. Vivamus laoreet mi id magna condimentum. </p>
+
+
+
+<p>Amet convallis tortor accumsan. Pellentesque hendrerit accumsan finibus. Morbi augue mauris, consequat aliquam finibus ac, ultrices vitae arcu. Sed convallis interdum mauris at efficitur.</p>
+
+
+
+<blockquote class="wp-block-quote has-text-align-center is-style-large"><p>&#8220;We must understand the Cosmos as it is and not confuse how it is with how we wish it to be.&#8221;  </p></blockquote>
+
+
+
+<p>Praesent a arcu in nisl dictum accumsan nec ut ligula. Maecenas in sollicitudin ex, at aliquam mi. Nullam rutrum consequat ipsum, eget tincidunt dui lacinia ut. Vestibulum semper lobortis lectus, laoreet fermentum tortor. Donec lectus elit, dignissim feugiat feugiat sed, aliquet vitae orci. <a href="#">Aliquam sed purus lectus</a>. </p>
+
+
+
+<h4>Small Changes Yield Big Results </h4>
+
+
+
+<p>Mauris nec libero nec quam imperdiet ultricies vel quis metus. Pellentesque in libero eget mi scelerisque commodo nec in nunc. Duis tincidunt, ipsum vitae lobortis interdum, sem arcu hendrerit nisi,  Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus  quis gravida nisl neque vel nisl. Morbi mattis tortor eget nisl scelerisque, eget accumsan velit maximus. Aliquam elementum erat non nisl ornare, vel sodales lacus porta. </p>
+
+
+
+<p> Aliquam erat volutpat. Etiam at lacus bibendum, lobortis mauris vitae, sollicitudin ipsum. Pellentesque quis augue eleifend, aliquam enim id, venenatis risus. Phasellus ac nibh tellus. Aliquam blandit, magna a tristique luctus, metus arcu mollis sem, porttitor sodales libero nisi sed erat.  </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/12/lunch-ideas-that-use-superfoods/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Reinvent your nighttime routine with Salient</title>
+		<link>/2020/02/08/our-top-skincare-products-that-actually-work/</link>
+					<comments>/2020/02/08/our-top-skincare-products-that-actually-work/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 08 Feb 2020 19:41:15 +0000</pubDate>
+				<category><![CDATA[Health & Wellness]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient-wellness/?p=129</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum consequat nunc at tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin quis malesuada dolor. Interdum et...]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum consequat nunc at tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin quis malesuada dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus id leo ac risus finibus pulvinar non eu felis. Vestibulum finibus et tortor vitae venenatis. Proin in molestie augue. Aliquam erat volutpat. Etiam at lacus bibendum, lobortis mauris vitae, sollicitudin ipsum. </p>
+
+
+
+<p>Pellentesque quis augue eleifend, aliquam enim id, venenatis risus. Mauris a maximus nisl, quis faucibus eros. Nam eros ex, fermentum ac ante a, commodo laoreet felis. Phasellus ac nibh tellus. Aliquam blandit, magna a tristique luctus, metus arcu mollis sem, porttitor sodales libero nisi sed erat. </p>
+
+
+
+<h4>Sleep is essential to well-being</h4>
+
+
+
+<p>Sed vehicula felis nisl, sed scelerisque magna vulputate vitae. Curabitur ultrices augue odio, ut vestibulum purus consequat vel. Aenean ullamcorper ornare aliquet. <a href="#">Orci varius natoque</a> penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam sed massa pretium, pulvinar dui eget, ultrices lorem. Aenean vestibulum mollis arcu, in dapibus tortor. Vestibulum at hendrerit est. Vivamus laoreet mi id magna condimentum. </p>
+
+
+
+<p>Amet convallis tortor accumsan. Pellentesque hendrerit accumsan finibus. Morbi augue mauris, consequat aliquam finibus ac, ultrices vitae arcu. Sed convallis interdum mauris at efficitur.</p>
+
+
+
+<blockquote class="wp-block-quote has-text-align-center is-style-large"><p>&#8220;We must understand the Cosmos as it is and not confuse how it is with how we wish it to be.&#8221;  </p></blockquote>
+
+
+
+<p>Praesent a arcu in nisl dictum accumsan nec ut ligula. Maecenas in sollicitudin ex, at aliquam mi. Nullam rutrum consequat ipsum, eget tincidunt dui lacinia ut. Vestibulum semper lobortis lectus, laoreet fermentum tortor. Donec lectus elit, dignissim feugiat feugiat sed, aliquet vitae orci. <a href="#">Aliquam sed purus lectus</a>. </p>
+
+
+
+<h4>Small Changes Yield Big Results </h4>
+
+
+
+<p>Mauris nec libero nec quam imperdiet ultricies vel quis metus. Pellentesque in libero eget mi scelerisque commodo nec in nunc. Duis tincidunt, ipsum vitae lobortis interdum, sem arcu hendrerit nisi,  Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus  quis gravida nisl neque vel nisl. Morbi mattis tortor eget nisl scelerisque, eget accumsan velit maximus. Aliquam elementum erat non nisl ornare, vel sodales lacus porta. </p>
+
+
+
+<p> Aliquam erat volutpat. Etiam at lacus bibendum, lobortis mauris vitae, sollicitudin ipsum. Pellentesque quis augue eleifend, aliquam enim id, venenatis risus. Phasellus ac nibh tellus. Aliquam blandit, magna a tristique luctus, metus arcu mollis sem, porttitor sodales libero nisi sed erat.  </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/08/our-top-skincare-products-that-actually-work/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Taking the adventure you&#8217;ve been waiting for</title>
+		<link>/2020/02/06/starting-a-new-yoga-routine/</link>
+					<comments>/2020/02/06/starting-a-new-yoga-routine/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2020 18:58:01 +0000</pubDate>
+				<category><![CDATA[Health & Wellness]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient-wellness/?p=125</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum consequat nunc at tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin quis malesuada dolor. Interdum et...]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum consequat nunc at tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin quis malesuada dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus id leo ac risus finibus pulvinar non eu felis. Vestibulum finibus et tortor vitae venenatis. Proin in molestie augue. Aliquam erat volutpat. Etiam at lacus bibendum, lobortis mauris vitae, sollicitudin ipsum. </p>
+
+
+
+<p>Pellentesque quis augue eleifend, aliquam enim id, venenatis risus. Mauris a maximus nisl, quis faucibus eros. Nam eros ex, fermentum ac ante a, commodo laoreet felis. Phasellus ac nibh tellus. Aliquam blandit, magna a tristique luctus, metus arcu mollis sem, porttitor sodales libero nisi sed erat. </p>
+
+
+
+<h4>It&#8217;s cheaper than you think</h4>
+
+
+
+<p>Sed vehicula felis nisl, sed scelerisque magna vulputate vitae. Curabitur ultrices augue odio, ut vestibulum purus consequat vel. Aenean ullamcorper ornare aliquet. <a href="#">Orci varius natoque</a> penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam sed massa pretium, pulvinar dui eget, ultrices lorem. Aenean vestibulum mollis arcu, in dapibus tortor. Vestibulum at hendrerit est. Vivamus laoreet mi id magna condimentum. </p>
+
+
+
+<p>Amet convallis tortor accumsan. Pellentesque hendrerit accumsan finibus. Morbi augue mauris, consequat aliquam finibus ac, ultrices vitae arcu. Sed convallis interdum mauris at efficitur.</p>
+
+
+
+<blockquote class="wp-block-quote has-text-align-center is-style-large"><p>&#8220;We must understand the Cosmos as it is and not confuse how it is with how we wish it to be.&#8221;  </p></blockquote>
+
+
+
+<p>Praesent a arcu in nisl dictum accumsan nec ut ligula. Maecenas in sollicitudin ex, at aliquam mi. Nullam rutrum consequat ipsum, eget tincidunt dui lacinia ut. Vestibulum semper lobortis lectus, laoreet fermentum tortor. Donec lectus elit, dignissim feugiat feugiat sed, aliquet vitae orci. <a href="#">Aliquam sed purus lectus</a>. </p>
+
+
+
+<h4>Small Changes Yield Big Results </h4>
+
+
+
+<p>Mauris nec libero nec quam imperdiet ultricies vel quis metus. Pellentesque in libero eget mi scelerisque commodo nec in nunc. Duis tincidunt, ipsum vitae lobortis interdum, sem arcu hendrerit nisi,  Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus  quis gravida nisl neque vel nisl. Morbi mattis tortor eget nisl scelerisque, eget accumsan velit maximus. Aliquam elementum erat non nisl ornare, vel sodales lacus porta. </p>
+
+
+
+<p> Aliquam erat volutpat. Etiam at lacus bibendum, lobortis mauris vitae, sollicitudin ipsum. Pellentesque quis augue eleifend, aliquam enim id, venenatis risus. Phasellus ac nibh tellus. Aliquam blandit, magna a tristique luctus, metus arcu mollis sem, porttitor sodales libero nisi sed erat.  </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/06/starting-a-new-yoga-routine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Skincare product lineup for 2020</title>
+		<link>/2020/01/24/skincare-product-lineup-for-2020/</link>
+					<comments>/2020/01/24/skincare-product-lineup-for-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2020 13:45:00 +0000</pubDate>
+				<category><![CDATA[Health & Wellness]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient-wellness/?p=249</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/24/skincare-product-lineup-for-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
